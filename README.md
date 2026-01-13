@@ -11,6 +11,10 @@
 2. **知识产权异议**：据可靠第三方信源反馈，AlphaGPT 的底层架构与国内某头部私募的因子挖掘框架存在高度重合。笔者有理由怀疑，由于前任 Leader 的个人违规套利行为，该模型可能已被非法转售或泄露给第三方机构。本开源行为旨在回归技术公正，防止单一利益团体利用窃取的技术。
 
 ---
+Important
+
+若您在加密市场进行交易，另可参考 Defense in Predatory Markets: A Differential Game Framework for AMM Liquidity via Uniswap V4 Hooks 进行做市。笔者懒得向会议投稿了。若有疑问，请联系 imbue2025@outlook.com. BTW，对该仓库代码进行 live trading 前作适当的修改可能会出现意想不到的业绩。
+---
 
 ## What happened？
 
