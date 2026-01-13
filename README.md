@@ -10,10 +10,8 @@
 1. **业务范围澄清**：本版本 AlphaGPT 包含专门针对加密货币市场设计的执行逻辑与因子库。必须声明，笔者受雇期间的法定工作职责仅限于 A 股量化研发。任何关于加密货币市场的模块开发均系在非正常工作指令下、由笔者独立完成的技术验证。笔者不承担因该模块在任何法律管辖区内引发的合规性责任。
 2. **知识产权异议**：据可靠第三方信源反馈，AlphaGPT 的底层架构与国内某头部私募的因子挖掘框架存在高度重合。笔者有理由怀疑，由于前任 Leader 的个人违规套利行为，该模型可能已被非法转售或泄露给第三方机构。本开源行为旨在回归技术公正，防止单一利益团体利用窃取的技术。
 
----
-Important
-
-若您在加密市场进行交易，另可参考 Defense in Predatory Markets: A Differential Game Framework for AMM Liquidity via Uniswap V4 Hooks 进行做市。笔者懒得向会议投稿了。若有疑问，请联系 imbue2025@outlook.com. BTW，对该仓库代码进行 live trading 前作适当的修改可能会出现意想不到的业绩。
+> [!IMPORTANT]
+> 若您在加密市场进行交易，另可参考 [Defense in Predatory Markets: A Differential Game Framework for AMM Liquidity via Uniswap V4 Hooks](https://github.com/imbue-bit/AlphaGPT/blob/main/paper/20251226.pdf) 进行做市。笔者懒得向会议投稿了。若有疑问，请联系 imbue2025@outlook.com. BTW，对该仓库代码进行 live trading 前作适当的修改可能会出现意想不到的业绩。
 ---
 
 ## What happened？
